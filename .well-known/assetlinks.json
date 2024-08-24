@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ar.gob.buenosaires.bataxi.pasajero",
+    "sha256_cert_fingerprints":
+    ["37:7E:A4:E3:EE:6C:8F:B4:2E:16:D9:CF:0B:BE:05:EA:98:96:10:96:BF:5B:62:38:B0:5B:31:A7:1D:8C:BC:D8"]
+  }
+}]
